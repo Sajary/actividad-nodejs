@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve todos los reportes almacenados en el arreglo reportes. Cada vez que se registra un nuevo reporte mediante la ruta POST, este se agrega a la lista y puede ser consultado posteriormente. La respuesta se muestra en formato JSON con la información registrada.
